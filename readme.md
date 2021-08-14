@@ -1,6 +1,11 @@
 # Design
 
-ToDo
+We share complete CAD design.
+
+- `CAD` directory contains archive from Autodesk Fusion (`f3z`) and STEP. Fusion project contains complete geometry and CAM design for CNC jobs.
+- `DXF` directory contains a DXF outline to CNC router cutting
+- `FDM` 3mf files for 3D printing.
+Two PDF shwoing assembly. 
 
 # Catoprtric calibration tool
 
