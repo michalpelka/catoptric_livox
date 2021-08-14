@@ -93,5 +93,8 @@ Simple program to check field of view with sample config and simulated Livox Mid
 cd sample_data/
 wget https://storage.googleapis.com/dataset_sensors_pub/mid-40-garageA.tar.xz
 tar -xf mid-40-garageA.tar.xz
+
+wget https://storage.googleapis.com/dataset_sensors_pub/ground_truth.tar.xz
+tar -xf ground_truth.tar.xz
 ```
 or run `download.sh`
